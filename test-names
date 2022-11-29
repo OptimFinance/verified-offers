@@ -1,10 +1,10 @@
 {
   "e774a05621f59f0f8a0a4f2b2610103807b68a8017eafdff2e044e5f315d0c16": {
     "name": "TESTNAME2",
-    "opt-count": 0
+    "opts": 0
   },
   "358ef19b0a6784de0e960dd5576f9fb7ddd50f839a5c278f1f9637c863e86719": {
     "name": "TESTNAME3",
-    "opt-count": 1
+    "opts": 1000
   }
 }
