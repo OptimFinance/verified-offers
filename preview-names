@@ -1,18 +1,1 @@
-{
-  "e774a05621f59f0f8a0a4f2b2610103807b68a8017eafdff2e044e5f315d0c16": {
-    "name": "KNILOTYTE",
-    "opts": 3500
-  },
-  "358ef19b0a6784de0e960dd5576f9fb7ddd50f839a5c278f1f9637c863e86719": {
-    "name": "PRILOKYTE",
-    "opts": 15000
-  },
-  "1b42f46aa1adc3428daa82beae21cdcc3a8a6c790868c067983a8f4ad4a181a4": {
-    "name": "HELLOMOMO1",
-    "opts": 0
-  },
-  "2e5cfaeff87bc082b6749de3885769f1818c2eb7d02554a97b8dda3319ccc8e8": {
-    "name": "HELLOMOMO2",
-    "opts": 3456
-  }
-}
+{}
