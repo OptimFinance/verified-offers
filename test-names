@@ -10,5 +10,11 @@
       "name": "HELLOMOMO1",
       "opts": 4000
     }
+  },
+  "806e956f42d07da401c802319b9e59623b9727ed1122664eb1b4c198fbaa3c6e": {
+    "15": {
+      "name": "HELLOMOMO2",
+      "opts": 15000
+    }
   }
 }
