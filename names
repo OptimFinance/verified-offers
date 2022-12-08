@@ -4,5 +4,11 @@
       "name": "PSILOBYTE",
       "opts": 2
     }
+  },
+  "d8ca23a3e08bd16c8102c2e2299b8b9678b6afdeac69b12fc2daa6361606b796": {
+    "15000": {
+      "name": "dataDyne.earth",
+      "opts": 2
+    }
   }
 }
