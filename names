@@ -16,5 +16,11 @@
       "name": "[ARA] ARA StakePool",
       "opts": 2
     }
+  },
+  "f9c09e1913e29072938cad1fda7b70939090c0be1f7fa48150a2e63a2b9ad715": {
+    "10000": {
+      "name": "[VICIS] VICISpool",
+      "opts": 2
+    }
   }
 }
