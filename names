@@ -22,5 +22,11 @@
       "name": "[VICIS] VICISpool",
       "opts": 2
     }
+  },
+  "74e58cb4fcf71b07f12529d55908339ae4b121d17377440e59fc81e7e5b8266c": {
+    "10000": {
+      "name": "[CBFR] Baremetal French Pool",
+      "opts": 2
+    }
   }
 }
