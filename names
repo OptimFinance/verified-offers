@@ -28,5 +28,11 @@
       "name": "[CBFR] Baremetal French Pool",
       "opts": 2
     }
+  },
+  "1e64eb3111afb7874ffdf7789be0fb1ffe49d18c948fe572657bb97b3e18f9db": {
+    "5000": {
+      "name": "[CENTU] Centuo Pool",
+      "opts": 2
+    }
   }
 }
