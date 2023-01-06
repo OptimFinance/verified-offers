@@ -34,5 +34,11 @@
       "name": "[CENTU] Centuo Pool",
       "opts": 2
     }
+  },
+  "97b2efcc14587d6bd648252b17108ba3cb628273fa45080572d920df1f53e934": {
+    "10000": {
+      "name": "[FLUID] Fluid Pool",
+      "opts": 2
+    }
   }
 }
