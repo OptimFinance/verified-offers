@@ -40,5 +40,11 @@
       "name": "[FLUID] Fluid Pool",
       "opts": 2
     }
+  },
+  "6f02ace31b94ad93f9cbe99e7ce994ba0b1a6186a81832a4bdfee3a86001ca40": {
+    "5000": {
+      "name": "[MOCHI] MOCHI Pool",
+      "opts": 2
+    }
   }
 }
