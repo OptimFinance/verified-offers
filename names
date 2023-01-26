@@ -46,5 +46,11 @@
       "name": "[MOCHI] MOCHI Pool",
       "opts": 2
     }
+  },
+  "225e32b7f6f8fd4c57cfebb862d15b07b74962c042869ce949f47c471f7d6efa": {
+    "15000": {
+      "name": "[ESQ] Esquire Pool",
+      "opts": 2
+    }
   }
 }
