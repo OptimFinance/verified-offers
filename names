@@ -58,5 +58,11 @@
       "name": "[MOCHI] MOCHI Pool",
       "opts": 2
     }
+  },
+  "82f2356d37f02d3f4c1d3ad2af585ea1b3e485830a2fd3af0f4b07113cf23496": {
+    "10000": {
+      "name": "[1VICA] First Vica Stakepool",
+      "opts": 2
+    }
   }
 }
