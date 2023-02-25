@@ -64,5 +64,11 @@
       "name": "[1VICA] First Vica Stakepool",
       "opts": 2
     }
+  },
+  "462497815d7d0155e6c40513e6f9507ff783843f8dcf49ae4f0fba94da38b612": {
+    "10000": {
+      "name": "[LIT] LIT Staking",
+      "opts": 2
+    }
   }
 }
