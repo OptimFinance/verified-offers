@@ -76,5 +76,11 @@
       "name": "[TDOT] TDOT Staking",
       "opts": 2
     }
+  },
+  "14a4087a7adeaa6d02a38793f88a585dbaa21f4ee3bfd97dd58d77d52962e9b3": {
+    "10000": {
+      "name": "[SHARE] Share Pool",
+      "opts": 2
+    }
   }
 }
