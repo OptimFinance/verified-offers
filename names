@@ -82,5 +82,11 @@
       "name": "[SHARE] Share Pool",
       "opts": 2
     }
+  },
+  "6f4149b8085d5962592df65043ccc9465df031e2049c52e675c028e71612eddf": {
+    "2500": {
+      "name": "[ISYG] iSygnal",
+      "opts": 2
+    }
   }
 }
