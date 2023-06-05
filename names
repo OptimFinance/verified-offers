@@ -100,5 +100,11 @@
       "name": "[CORAL] Coral Pool",
       "opts": 2
     }
+  },
+  "38b3bd7969f059167f00beeb5c5f561b91ab25d7fc385bfabe243bdd208787fd": {
+    "2500": {
+      "name": "[ISYG] iSygnal",
+      "opts": 2
+    }
   }
 }
