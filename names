@@ -106,5 +106,11 @@
       "name": "[ISYG] iSygnal",
       "opts": 2
     }
+  },
+  "8f3f207fbdf8dc78b81c262075764ca39ea81987d8b4ccf22137667a8f60ac02": {
+    "2500": {
+      "name": "[SDG13] Blue Ocean Stake Pool",
+      "opts": 2
+    }
   }
 }
