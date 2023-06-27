@@ -112,5 +112,11 @@
       "name": "[SDG13] Blue Ocean Stake Pool",
       "opts": 2
     }
+  },
+  "1dd6ddf0ef1580264b19db97d8e311b80c0922633c6567af5be5c0724f4e6864": {
+    "2500": {
+      "name": "ISPO Bond",
+      "opts": 2
+    }
   }
 }
