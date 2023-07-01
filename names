@@ -136,5 +136,17 @@
       "name": "ISPO Bond",
       "opts": 2
     }
+  },
+  "b6a16d34b8a69bfb16acea1781420e7098799b9aee1cffd61d1ef4b181d099ae": {
+    "500": {
+      "name": "ISPO Bond",
+      "opts": 2
+    }
+  },
+  "d2c9b1ced449d47fb2f3e214ef8b73f88a1725fdf2f436167bd01fec05370367": {
+    "1000": {
+      "name": "ISPO Bond",
+      "opts": 2
+    }
   }
 }
